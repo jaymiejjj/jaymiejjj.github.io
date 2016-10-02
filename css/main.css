@@ -1549,7 +1549,10 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9670ff;
+  background: #ffabc4;
+}
+.links-of-author-item {
+  text-align: center;
 }
 .links-of-blogroll {
   font-size: 13px;
